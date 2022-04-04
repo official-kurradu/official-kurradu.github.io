@@ -15,18 +15,16 @@
 
    
         "youtube": [
-          {
-            "1": {
+        {
               "link": "https://www.youtube.com/c/RameshLuckytv",
               "title": "Primary Channel"
             }
-          },
-          {
-            "1": {
+        ,
+        {
               "link": "https://www.youtube.com/c/TeluguStreamer",
               "title": "Secondary Channel"
             }
-          }
+          
         ],
         "instagram": "https://www.instagram.com/telugugameryt/",
         "discord": "https://discord.com/channels/655659592037957632/802965674182836276"
