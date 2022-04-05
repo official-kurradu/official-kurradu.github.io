@@ -3,14 +3,14 @@
     "image": "http://official-kurradu.github.io/bgmi/telugugamer/data/image.jpg",
 
     "controCode": "343-45-45-y56-6-35",
-    "controlCodePics": [ "https://cdn.discordapp.com/attachments/802965674182836276/859298656581845022/Screenshot_2021-06-29-07-26-19-917_com.pubg.imobile.jpg"],
+    "controlCodePics": [ {url:"https://cdn.discordapp.com/attachments/802965674182836276/859298656581845022/Screenshot_2021-06-29-07-26-19-917_com.pubg.imobile.jpg"}],
 
     "senstivityCode": "354-45-656-34-25-3",
     "senstivityCodePics": [
-      "https://cdn.discordapp.com/attachments/802965674182836276/859298656581845022/Screenshot_2021-06-29-07-26-19-917_com.pubg.imobile.jpg",
-      "https://cdn.discordapp.com/attachments/802965674182836276/859298656888815657/Screenshot_2021-06-29-07-26-30-007_com.pubg.imobile.jpg",
-      "https://cdn.discordapp.com/attachments/802965674182836276/859298657181368320/Screenshot_2021-06-29-07-26-44-151_com.pubg.imobile.jpg",
-      "https://cdn.discordapp.com/attachments/802965674182836276/859298657451245598/Screenshot_2021-06-29-07-26-50-599_com.pubg.imobile.jpg"
+      {url:  "https://cdn.discordapp.com/attachments/802965674182836276/859298656581845022/Screenshot_2021-06-29-07-26-19-917_com.pubg.imobile.jpg"},
+       {url:  "https://cdn.discordapp.com/attachments/802965674182836276/859298656888815657/Screenshot_2021-06-29-07-26-30-007_com.pubg.imobile.jpg"},
+      {url: "https://cdn.discordapp.com/attachments/802965674182836276/859298657181368320/Screenshot_2021-06-29-07-26-44-151_com.pubg.imobile.jpg"},
+      {url: "https://cdn.discordapp.com/attachments/802965674182836276/859298657451245598/Screenshot_2021-06-29-07-26-50-599_com.pubg.imobile.jpg"}
     ],
 
    
